@@ -2,6 +2,7 @@
 <title>David Wallace's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Master Carpenter (Level       1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 </channel></rss>
