@@ -2,6 +2,7 @@
 <title>David Wallace's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Carpenter (Level      14)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 15 times with git add -p.</description></item>
